@@ -1,0 +1,54 @@
+[
+  {
+    "season": "Spring",
+    "ingredients": [
+      "Asparagus",
+      "Artichokes",
+      "Peas",
+      "Rhubarb",
+      "Strawberries",
+      "Radishes",
+      "Spring onions",
+      "Spinach"
+    ]
+  },
+  {
+    "season": "Summer",
+    "ingredients": [
+      "Tomatoes",
+      "Cucumbers",
+      "Zucchini",
+      "Eggplant",
+      "Peppers",
+      "Corn",
+      "Watermelon",
+      "Peaches"
+    ]
+  },
+  {
+    "season": "Fall",
+    "ingredients": [
+      "Pumpkin",
+      "Squash",
+      "Apples",
+      "Pears",
+      "Brussels sprouts",
+      "Sweet potatoes",
+      "Mushrooms",
+      "Cranberries"
+    ]
+  },
+  {
+    "season": "Winter",
+    "ingredients": [
+      "Kale",
+      "Citrus fruits",
+      "Pomegranates",
+      "Turnips",
+      "Parsnips",
+      "Cabbage",
+      "Carrots",
+      "Potatoes"
+    ]
+  }
+]

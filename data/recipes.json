@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta",
+      "4 large eggs",
+      "100g Pecorino cheese",
+      "100g Parmesan cheese",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Cook spaghetti in salted boiling water until al dente.",
+      "In a large pan, cook pancetta until crispy.",
+      "In a bowl, whisk eggs, grated cheeses, and black pepper.",
+      "Drain pasta, reserving some pasta water.",
+      "Toss hot pasta with pancetta, then quickly mix in egg mixture.",
+      "Add pasta water if needed to create a creamy sauce.",
+      "Serve immediately with extra cheese and black pepper."
+    ],
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "difficulty": "intermediate"
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "2 cups mixed vegetables (bell peppers, broccoli, carrots, snap peas)",
+      "2 tbsp vegetable oil",
+      "2 cloves garlic, minced",
+      "1 tbsp ginger, grated",
+      "3 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "2 cups cooked rice"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a wok or large frying pan over high heat.",
+      "Add garlic and ginger, stir fry for 30 seconds.",
+      "Add mixed vegetables and stir fry for 3-5 minutes until crisp-tender.",
+      "Add soy sauce and sesame oil, toss to combine.",
+      "Serve hot over cooked rice."
+    ],
+    "prep_time": 10,
+    "cook_time": 10,
+    "servings": 2,
+    "difficulty": "beginner"
+  }
+]

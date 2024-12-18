@@ -1,0 +1,4 @@
+groq
+jupyter==1.0.0
+ipython==8.12.0
+streamlit
