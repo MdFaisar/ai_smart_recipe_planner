@@ -1,5 +1,7 @@
 Smart Recipe planner:
 
+![image alt](https://github.com/MdFaisar/ai_smart_recipe_planner/blob/main/Screenshot%20(43).png?raw=true)
+
 >> First clone the Repository into your vs code.
 
 >> Then go to Groq api website, and get your 
