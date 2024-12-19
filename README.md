@@ -27,5 +27,8 @@ Smart Recipe planner:
 
 >> Then it works!!!
 
+![image alt](https://github.com/MdFaisar/ai_smart_recipe_planner/blob/main/Screenshot%20(44).png?raw=true)
+
+![image alt](https://github.com/MdFaisar/ai_smart_recipe_planner/blob/main/Screenshot%20(45).png?raw=true)
 
 Thank You!
