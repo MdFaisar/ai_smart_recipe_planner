@@ -14,7 +14,7 @@ project_root = Path(__file__).resolve().parent.parent
 sys.path.append(str(project_root))
 
 # Set up Groq client
-groq_api_key = os.environ.get("GROQ_API_KEY")
+groq_api_key = os.environ.get("groq_api_key")
 if not groq_api_key:
     st.error("Please set the GROQ_API_KEY environment variable")
     st.stop()
